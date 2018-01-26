@@ -3,9 +3,12 @@ Works on v0.6 and later
 
 JDM Swaps for stock cars
 
+Realistic torque curves
+
 # Engines:
 - EJ25
 - 4G63
+- SR20DETT
 
 # What Works?
 - EJ25 for Sunburst

@@ -3,6 +3,10 @@ Works on v0.6 and later
 
 JDM Swaps for stock cars
 
+# Engines:
+- EJ25
+- 4G63
+
 # What Works?
 - EJ25 for Sunburst
 - 4G63 for '91 Pessima
